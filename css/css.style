@@ -1,1 +1,62 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: 'Roboto', sans-serif;
+  font-weight: 50;
+} 
+
+.header { 
+  background-size: cover;
+  height: 800px;
+  text-align: center; 
+
+ .header h1 {
+  color: #fff;
+  line-height: 110px; 
+  font-size: 75px;
+  margin-top: 0;
+  margin-bottom: 80px;
+  text-transform: uppercase;
+   
+ .main img {
+  float: right;
+  margin: 50px 80px 50px 0;
+}
+ 
+  .about me h2 {
+    font-family: 'Space Mono';
+    font-size: 60px;
+   }
+   
+  .about me p {
+    font-family: 'Times New Roman';
+    font-size: 50px; 
+   }
+   
+   .education h2 {
+     font-family: 'Space Mono';
+     font-size: 60px; 
+     display: left;
+   } 
+   
+   .education li {
+     font-family: 'Times New Roman'; 
+     fonz-size: 50px;
+     display: left;
+   }
+   
+  .accomplishments h3 {
+     font-family: 'Space Mono';
+     font-size: 60px; 
+     display: left;
+   } 
+   
+   .accomplishments li {
+     font-family: 'Times New Roman'; 
+     fonz-size: 50px;
+     display: left;
+   }  
 
